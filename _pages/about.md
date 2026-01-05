@@ -7,20 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi, my name is Vishnu. Thanks for visiting my website. I welcome you!
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Currently, I am a faculty member at Mechanical Engineering, SRM University-AP, India. I am interested in numerical simulations of atmospheric flows, turbulence and improving weather forecasting, along with tabletop experiments!
 
 Research Interest
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I worked on fluid turbulence, transition, and intermittency in pipe flows, with Prof. Pinaki Chakraborty at the Fluid Mechanics Unit (OIST). During an encounter with typhoon while in Okinawa, out of curiosity, I got interested in atmospheric flows and performing some tabletop experiments. This motivated me to write a successful research proposal with a grant of 4 Million JPY with PEREX from OIST Innovation. I could successfully complete the project as its Principal Investigator. I developed an algorithm to estimate wind speed and is now considered for patenting or licensing. This idea will develop a frugal instrument for wind speed estimation, and hopefully an improved resolution local weather forecast with the instrument’s denser deployment. I will be soon pursuing the second phase of this project on numerical weather forecast, with a curious collaborator! (Let me know if you fit here, we can have a chat!)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I did my PhD to understand vortex flows under thermal effects at the Department of Aerospace Engineering, Indian Institute of Technology Madras (IIT Madras). Prof. A. Sameen was my PhD advisor. The study was on Rayleigh Bénard convection with shear due to rotation. From direct numerical simulation (DNS) results, we explored the dynamics of rotating fluid over a heated surface. We established novel scaling laws in heat transfer and developed a parameter with predictive capability.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+I also worked with an experimental team under Prof Baburaj Puthenveetil and with Prof Manikandan Mathur, IIT Madras, on an objective criterion (without relying on an ad-hoc value such as in heat flux or temperature) to identify thermal plumes. Previously, I had performed experiments to understand combustion instability in reactive two-phase flows and a laboratory-scale combustor. We applied tools from dynamical systems theory to study the bifurcation characteristics of a combustor during combustion instability. My Master’s thesis advisors were Prof. Preeti Aghalayam and Prof R. I. Sujith, IIT Madras.
+
+My research interests are on the fundamental questions we encounter in nature and to understand things beyond their names and definitions. I have a deep interest in turbulence, thermal convection, rotating flows, oceans, weather and climate, and large-scale atmospheric flows, including questions about how a hurricane forms and develops an eye. I am also interested in conducting tabletop experiments to obtain deeper insights of fluid mechanics. I am also open to dynamical systems’ analysis and applying machine learning to fluid problems, as well as learning the state-of-the-art, including Quantum CFD. I plan to pursue my curiosity during my academic career and beyond. If you find any of these striking to your interest, feel free to drop me an email!
+
+Website last updated: 30 Dec 2025
+
+Vishnu Ravindran, PhD,
+Email: 1.vishnur@gmail.com
 
 Getting started
 ======
